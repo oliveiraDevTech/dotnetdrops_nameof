@@ -19,7 +19,7 @@ O `nameof` veio para resolver isso de forma simples e elegante:
 ### 📌 Artigo completo
 
 Acesse o artigo original desta Drop no LinkedIn:  
-👉 [https://www.linkedin.com/pulse/](https://www.linkedin.com/pulse/)
+👉 [.NET Drops - Sua dose semanal](https://www.linkedin.com/pulse/deixe-seu-c%25C3%25B3digo-mais-limpo-com-nameof-c-daniel-oliveira-6yyqf/)
 
 (O link real pode ser adicionado depois quando o artigo estiver publicado)
 
